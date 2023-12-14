@@ -1,3 +1,6 @@
+
+这是一款用安卓手机把txt文件转化为epub电子书的python程序，安卓系统需要安装termux，termux要安装python,具体termux使用方法请网上查阅。
+
 1.把本文件解压到任意文件夹。
 
 2.把要转化的txt文件改名为book.txt并复制到Converter文件夹。
