@@ -9,10 +9,10 @@
 
 4.整理电子书目录，每行一个目录（不用标点）复制到NCX.txt文件。
 
-5.启动termux软件，进入你解压的文件夹（最好是预先设置好超链接），运行： python complete.py
+5.启动termux软件，进入Text_to_epub文件夹（最好是预先设置好超链接），运行： python complete.py
 
 6.到解压的文件夹找到book.epub，这就是转化好的电子书。
 
-附注：所用txt文档最好是用OCR软件转自PDF的电子书。
+附注：所用电子书的txt文档最好是用手机上的OCR扫描软件转自PDF的电子书。
 
    制作：doblinac
